@@ -1,5 +1,5 @@
 # Risky-Business-
-From the results below, all four resampling alogorithms had very low precision rates classifying observations as high credit risk. Each model scored fairly well in identifying above 70% of actual high credit risk observations based on the high risk recall scores, but misclassified low credit risk observations as high credit risk, resulting in a low precision rate for high risk.
+From the results, all four resampling alogorithms had very low precision rates classifying observations as high credit risk. Each model scored fairly well in identifying above 70% of actual high credit risk observations based on the high risk recall scores, but misclassified low credit risk observations as high credit risk, resulting in a low precision rate for high risk.
 
 On the flip side, precision scores were very high for low risk as the models all performed well in correctly classifying low credit risk out of the total low credit risk the model identified.
 
